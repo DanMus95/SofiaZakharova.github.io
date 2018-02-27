@@ -1,5 +1,4 @@
 # SofiaZakharova.github.io
 https://github.com/sofiazakharova <br>
 https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki<br>
-https://github.com/SofiaZakharova/index.html
-https://github.com/sofiazakharova/SofiaZakharova.github.io/index.html
+https://SofiaZakharova.github.io 
