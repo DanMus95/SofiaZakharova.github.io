@@ -10,6 +10,6 @@
 <ol><strong>Список ссылок на различные ресурсы:</strong><br>
 <li><a href="https://github.com/sofiazakharova">Личная страница</a><br>
 <li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io">Личный репозиторий</a><br>
-<li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki">Wi-Ki</a><br>
+<li><a href="https://github.com/sofiazakharova/SofiaZakharova.github.io/wiki">WiKi</a><br>
 <li><a href="https://SofiaZakharova.github.io ">index</a></ol><br>
 
